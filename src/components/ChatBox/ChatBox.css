@@ -53,3 +53,10 @@
   border: none;
   outline: none;
 }
+.chat-msg{
+  height: calc(100% - 70px);
+  padding-bottom: 50%;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column-reverse;
+}
