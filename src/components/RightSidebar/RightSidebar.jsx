@@ -8,6 +8,8 @@ const RightSidebar = () => {
       <div className="rs-profile">
         <img src={assets.profile_img} alt="" />
         <h3>Richard Sanford</h3>
+        <p>Hi, there I am Richard Sanford using chat app
+        </p>
       </div>
     </div>
   )
