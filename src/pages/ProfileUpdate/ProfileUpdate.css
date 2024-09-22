@@ -47,3 +47,11 @@
   border: 1px solid #c9c9c9;
   outline-color: #077eff;
 }
+.profile form button{
+  border: none;
+  color: white;
+  background-color: #077eff;
+  padding: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
